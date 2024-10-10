@@ -20,7 +20,7 @@
 
 ## 📌Application Architecture
 
-![img.png](Resources/Application architecture.png)
+![img.png](Resources/architecture.png)
 
 ## Built with
 
