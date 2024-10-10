@@ -9,7 +9,7 @@ public class ChatServer implements Runnable {
     private ServerSocket server = null;
     private Thread thread = null;
     private int clientCount = 0;
-
+ 
     public ChatServer(int port) {
         try {
             System.out.println("Binding to port " + port + ", please wait...");
