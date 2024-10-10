@@ -1,5 +1,5 @@
 package client.util;
-
+ 
 import client.ApplicationContext;
 import com.jfoenix.effects.JFXDepthManager;
 import javafx.geometry.Pos;
