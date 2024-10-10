@@ -1,7 +1,7 @@
 package client;
 
 import client.controllers.ClientFormController;
-
+ 
 import java.io.DataInputStream;
 import java.net.SocketException;
 
