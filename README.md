@@ -1,6 +1,6 @@
 # Live-Chat-Application
 
-## Features
+## Features 
 
 - Users can log into the chat room using his/her name, host address and port number.
 - A user can send a message from the interface that he/she has. 
