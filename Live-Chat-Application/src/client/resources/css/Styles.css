@@ -1,7 +1,7 @@
 .list-cell {
     -fx-background-color: null;
     -fx-control-inner-background: null;
-}
+} 
 
 .list-view {
     -fx-background-image: url("../img/background.png");
