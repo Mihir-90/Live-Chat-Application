@@ -1,5 +1,5 @@
 package client.controllers;
-
+ 
 import client.ApplicationContext;
 import client.ChatClientThread;
 import client.Main;
